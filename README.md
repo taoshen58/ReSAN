@@ -5,6 +5,10 @@
 * The leaderboard of Stanford Natural Language Inference is available [here](https://nlp.stanford.edu/projects/snli/).
 * Please contact author or open an issue for questions and suggestions.
 
+
+**News: A time- and memory-efficient self-attention mechanism named as Fast-DiSA has been proposed, which is as fast as multi-head self-attention but uses the multi-dim and positional masks techniques. The codes are released at [here](https://github.com/taoshen58/DiSAN/tree/master/Fast-DiSA)**
+
+
 ## Requirements
 ### Foundation
 * Python3 (verified on 3.5.2, Anaconda3 4.2.0)
